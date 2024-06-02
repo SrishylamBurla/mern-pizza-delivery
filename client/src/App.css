@@ -1,0 +1,70 @@
+.App{
+  text-align: center;
+  margin: auto;
+}
+
+.navbar-brand {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+.nav-account {
+  color: black;
+  text-decoration: none;
+}
+h1{
+  font-size: 20px !important;
+}
+
+.item-quantity{
+  border: 1px solid black;
+  margin: 3px;
+}
+.flex-container{
+  display: flex !important;
+  
+}
+
+.form-control{
+  box-shadow: none !important;
+  border-color: black !important;
+  margin-top: 10px !important;
+}
+.btn{
+  background-color: red !important;
+  color: white !important;
+}
+.modal-data{
+  text-align: center;
+}
+
+.fa-plus{
+  color: green;
+  cursor: pointer;
+}
+.fa-minus{
+  color: red;
+  cursor: pointer;
+}
+.fa-trash{
+  color: red;
+  cursor: pointer;
+}
+.admin-functions{
+  padding: 10px;
+  background-color: rgb(3, 3, 128) !important;
+}
+.admin-functions li{
+  list-style-type: none !important;
+  display: inline;
+}
+.admin-functions li a{
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+}
+
+th, tr, td{
+  text-align: left;
+}
